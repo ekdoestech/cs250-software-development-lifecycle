@@ -1,5 +1,8 @@
 ## CS250: Software Development Lifecycle — Portfolio Reflection
 
+## CS250 Final Project Artifact
+- Sprint Review and Retrospective: [View here](./final-project/Sprint_Review_and_Retrospective.pdf)
+
 ### How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 I interpret user needs by translating requests into clear, testable requirements and validating them through feedback. User stories help because they keep the focus on *who* needs something, *what* they need, and *why it matters*. Writing stories with acceptance criteria reduces ambiguity, aligns the team on scope, and creates a shared definition of “done” that can be tested and reviewed.
 
